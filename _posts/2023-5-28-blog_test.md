@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 测试
+title: blog test
 tags: test
 stickie: true
 ---
