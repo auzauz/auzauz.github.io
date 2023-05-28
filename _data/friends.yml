@@ -1,5 +1,5 @@
 - name: 小皮同学
-  image: https://auzauz.github.io/_data/xiaopi.png
+  image: xiaopi.png
   url: https://xiaopi0213.github.io/
   describe: xiaopi0213's website
   skin: /theme/skin/skin3.png
