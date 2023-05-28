@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 广告牌
-tagline: Biu~
+tagline: 广告牌
 ---
 
 <div style="text-align:center">:shit:nothing...</div>
