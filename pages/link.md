@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Links
-tagline: My friends.
-permalink: /links.html
+title: 朋友
+tagline: 我的朋友们
+permalink: /friends.html
 ---
 
 
