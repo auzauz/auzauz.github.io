@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: 关于
 tagline: 关于博客 ~
 sitetime: display
 permalink: /about.html
